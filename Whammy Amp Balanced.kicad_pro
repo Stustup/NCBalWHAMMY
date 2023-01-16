@@ -373,7 +373,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 199,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
@@ -420,12 +420,16 @@
       "Power Supply"
     ],
     [
-      "cb27185c-ad6f-4487-b602-d9f3bb4513e6",
-      "Amp"
-    ],
-    [
       "b84b52fe-be56-46c9-8fc4-f72583fb3625",
       "InOut"
+    ],
+    [
+      "f33aa1c7-98a4-4ed5-9166-f2cb3d78feaa",
+      "amplifier_R"
+    ],
+    [
+      "cd58b9d8-aaf5-4bd2-a66c-8642523f56c8",
+      "amplifier_L"
     ]
   ],
   "text_variables": {}
